@@ -1,6 +1,8 @@
 # System-Theory
 System Theory course at NTHU
-    
+
+School Semester： 111    
+Semester： 20    
 Course Number： EE 551000   
 Course Name：   系統理論    
 Instructor：    邱偉育(CHIU, WEI-YU)
